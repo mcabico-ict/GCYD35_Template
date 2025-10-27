@@ -4,8 +4,6 @@ GCYD35 Gemini Reference Template (ESP32-3248S035C)
 This project is a high-quality, fully configured base template for the popular ESP32-3248S035C (CYD 3.5-inch) board.
 We believe human creativity is boundless, but the fear of technical complexity (the expertise gap) often prevents people from starting. This project's Mission is to prove that AI assistance eliminates this barrier. By leveraging AI to generate the daunting, low-level hardware configuration, we free creative minds to focus immediately on application logic and innovative UI design.
 
-|
-
 | Collaborative Creator | AI Generator | Board Model | Display/Touch |
 
 | Marvin A Cabico (Developer & Systems Integrator) | Gemini | ESP32-3248S035C | ST7796 / GT911 |
@@ -41,5 +39,6 @@ The template is divided into clear sections to guide beginners on where to make 
 📄 License
 This project is released under the MIT License.
 This is the most permissive open-source license, allowing its free use, modification, and distribution. A separate LICENSE file containing the full text has been included in this repository.
+
 
 
